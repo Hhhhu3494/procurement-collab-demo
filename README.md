@@ -1,2 +1,23 @@
-# procurement-collab-demo
-Interactive prototype for procurement collaboration in manufacturing
+# 采购协同系统 · 交互原型 Demo
+
+作者：Hhhhu3494
+
+在线演示：https://hhhhu3494.github.io/procurement-collab-demo/
+
+这是一个面向制造业采购协同场景的 Web 交互原型，用于演示从采购全景看板、供应商绩效、归因策略，到请购订单、合同、入库、IQC、异常日志与对账财务的完整链路。
+
+## 主要功能
+
+- 采购全景看板：核心指标、趋势、风险提醒
+- 供应商绩效画像与归因策略分析
+- 请购与订单跟踪、供应商管理、采购合同
+- 入库协同与效期、IQC 来料检验、异常日志
+- 对账财务、通知中心、详情抽屉、返回上一页
+
+## 说明
+
+- 页面中的数据均为模拟数据，仅用于产品演示。
+- 本仓库用于作品展示与确权，不用于生产部署。
+- 仓库遵循 [LICENSE](./LICENSE) 中的使用限制；未经许可不得复制、冒名提交或商用。
+
+© 2026 Hhhhu3494
